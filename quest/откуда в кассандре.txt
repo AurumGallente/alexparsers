@@ -1,0 +1,6 @@
+откуда в кассандре
+откуда в кассандре греция
+откуда в кассандре халкидики
+откуда в кассандре читать
+from cassandra import cluster
+from cassandra.cluster import cluster
